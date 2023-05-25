@@ -1,16 +1,16 @@
-# Bose Landing 
+# Todo App
 This is the "Bose Landing" project - a web page showcasing products from Bose.
 
-##Technologies
+## Technologies
 - HTML5
 - CSS3
 - SASS(SCSS)
 - Bulma
 - React
 - Rest Api
-##Usage
+## Usage
 - [DEMO LINK](https://Lilu580.github.io/Todo_App/)
 - This app is a portfolio project.
 - you can add your todos, remove and make done
-##Autors
+## Autors
 - Bogdan Maliuta (Lilu580)
